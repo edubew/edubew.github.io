@@ -1,12 +1,39 @@
-#### Hello there🤗
+
+# Project Name
+
+> Description.
 
 
-# About me
-### I am Winfred Edube
+## Built With
 
-- 🌻 A full stack web development student at Microverse with love for music, reading and coding. 
-- 🌻 My goal is to create bold solutions and relevant experience for users and learn new ways to express myself through code
-- 🌻 Looking forward to make a great experience out of this
+- HTML
+- CSS
+- LINTERS
 
-#### Git Stats
-<img src="https://github-readme-stats.vercel.app/api?username=edubew&&show_icons=true&count_private=true&theme=radical"/>
+
+🤵‍ **Author**
+
+- GitHub: [@githubhandle](https://github.com/edubew)
+- Twitter: [@twitterhandle](https://twitter.com/@edube_winne)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/winfred-edube-9820a422a/)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
